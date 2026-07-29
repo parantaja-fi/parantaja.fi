@@ -4,7 +4,7 @@ export const defaultDescription = 'parantaja.fi';
 
 export interface NavigationItem {
 	label: string;
-	href?: string;
+	href: string;
 	children?: NavigationItem[];
 }
 

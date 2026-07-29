@@ -22,18 +22,20 @@ Et myöskään voi käytännössä haastaa meitä oikeuteen; se ei vain kannata.
 Jollei muuta sovita, lähetän palvelun jälkeen sinulle sähköpostiin laskun.
 
 Laskussa erittelen tekemäni työn, mutta en anna sille mitään euromääräistä arvoa.
-Hoitolaskuissa on kaksi eri viitenumeroa, joiden avulla voit valita,
+Laskun saatuasi päätät, minkä verran maksat.
+Maksun saatuani kirjanpitojärjestelmäni automaattisesti kirjaa laskun ja maksetun summan.
+
+Hoitolaskuissa on kaksi eri viite- ja tilinnumeroa, joiden avulla voit valita,
 haluatko minun lahjoittavan palkkion [Suomen Kestävän Elämäntavan Yhteisöt](https://skey.fi) ry:lle vai
 [Ikikaiku](https://ikikaiku.fi) säätiölle.
-Muissa laskuissa on vain yksi viitenumero.
-
-Laskun saatuasi päätät, minkä verran maksat.
-Maksun saatuani kirjanpitojärjestelmäni automaattisesti kirjaa laskun ja maksetun summan
-ja hoitopalkkioiden kohdalla tekee minulle lahjoitusmaksun, jonka voin yhdellä klikkauksella hyväksyä.
+Muissa laskuissa on vain yksi tilin- ja viitenumero.
 
 Laskumuistutuksia en lähetä.
 Halutessasi voit jättää laskun maksamatta.
 Tällöin kirjaan laskun nollalaskuna kirjanpitooni ennen seuraavaa ALV-ilmoituksen jättöpäivää.
+
+Juridisesti maksat vain työstä, jonka arvon sinä päätät työn vastaanottamisen jälkeen.
+Työn tulokset (digitaaliset dokumentit, lähdekoodi) on aina käytössäsi avoimella lisenssillä.
 
 ## Yleiset riskit
 
@@ -42,9 +44,11 @@ Tiedämme vain suunnan, jota kohti matka alkaa.
 
 Tiedostathan, että:
 
-* Kaikki tuottamamme materiaali julkaistaan avoimena lähdekoodina tai Creative Commons -lisenssillä.
+* Kaikki tuottamamme ei-henkilökohtainen kirjallinen materiaali julkaistaan
+  avoimena lähdekoodina tai Creative Commons -lisenssillä.
   Et saa eksklusiivista oikeutta mihinkään tuottamaamme. Mahdolliset kilpailijasi voivat käyttää samaa työtä.
-* Tuottamamme materiaali tai lähdekoodi saattavat sisältää tietoja sisäisistä prosesseistanne tai järjestelmäarkkitehtuurista.
+* Tuottamamme kirjallinen ja muu digitaalinen materiaali tai lähdekoodi saattavat sisältää
+  tietoja sisäisistä prosesseistanne tai järjestelmäarkkitehtuurista.
   Toimintanne luonteesta riippuen tämä saattaa muodostaa teille riskin.
 * Emme tee kirjallista sopimusta. Sinulla ei ole juridista suojakeinoa, jos työ jää kesken tai tulos ei vastaa odotuksiasi.
   Kaikki tuotokset ovat kuitenkin aina käytössäsi, vaikka työ jäisi kesken.

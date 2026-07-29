@@ -14,8 +14,7 @@ Haluan käyttää elämäni antamalla lahjoja muille.
 En hinnoittele työtäni mitenkään.
 Sinä päätät palvelun vastaanotettuasi, mitä maksat.
 
-Kaikki [hoitotyöstä](/hoidot) saamani palkkiot
-lahjoitan suoraan lyhentämättöminä
+Kaikki [hoitotyöstä](/hoidot) saamani palkkiot lahjoitan suoraan
 [Suomen Kestävän Elämäntavan Yhteisöt](https://skey.fi) ry:lle tai
 [Ikikaiku](https://ikikaiku.fi) säätiölle.
 
