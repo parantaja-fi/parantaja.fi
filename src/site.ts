@@ -9,7 +9,6 @@ export interface NavigationItem {
 }
 
 export const navigation: NavigationItem[] = [
-	{ href: '/', label: 'Etusivu' },
 	{
 		href: '/pekka-ilmari',
 		label: 'Pekka-Ilmari',
