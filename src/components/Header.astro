@@ -1,5 +1,5 @@
 ---
-import { navigation, siteTitle } from '../site';
+import { navigation, siteTitle, type NavigationItem } from '../site';
 
 const normalizePath = (path: string) => {
 	if (path !== '/' && path.endsWith('/')) {
@@ -10,68 +10,179 @@ const normalizePath = (path: string) => {
 };
 
 const currentPath = normalizePath(Astro.url.pathname);
+
+const isCurrent = (item: NavigationItem) => item.href === currentPath;
+const holdsCurrent = (item: NavigationItem) =>
+	isCurrent(item) || Boolean(item.children?.some(isCurrent));
 ---
 
 <header class="site-header">
 	<div class="container header-inner">
 		<a class="site-brand" href="/">{siteTitle}</a>
-		<nav aria-label="Päävalikko">
-			<ul class="site-nav">
-				{
-					navigation.map((item) => {
-						const hasChildren = Boolean(item.children?.length);
-						const isActive = item.href === currentPath;
 
-						if (hasChildren) {
-							const isOpen =
-								isActive ||
-								item.children!.some((child) => child.href === currentPath);
+		<button class="nav-toggle" type="button" popovertarget="site-menu">
+			<span class="sr-only">Valikko</span>
+			<svg
+				viewBox="0 0 24 24"
+				aria-hidden="true"
+				fill="none"
+				stroke="currentColor"
+				stroke-width="2"
+				stroke-linecap="round"
+			>
+				<path d="M4 7h16M4 12h16M4 17h16" />
+			</svg>
+		</button>
 
-							return (
-								<li class="site-nav-group">
-									<details open={isOpen}>
-										<summary class={item.href ? 'has-link' : isOpen ? 'is-active' : undefined}>
-											{item.href ? (
-												<a class={isOpen ? 'is-active' : undefined} href={item.href}>
-													{item.label}
-												</a>
-											) : (
-												item.label
-											)}
-										</summary>
-										<ul class="site-subnav">
-											{
-												item.children!.map((child) => {
-													const isChildActive = currentPath === child.href;
-
-													return (
-														<li>
-															<a
-																class={isChildActive ? 'is-active' : undefined}
-																href={child.href}
-															>
-																{child.label}
-															</a>
-														</li>
-													);
-												})
-											}
-										</ul>
-									</details>
-								</li>
-							);
-						}
-
-						return (
-							<li>
-								<a class={isActive ? 'is-active' : undefined} href={item.href}>
+		<site-nav>
+			<nav id="site-menu" popover aria-label="Päävalikko">
+				<ul class="site-nav">
+					{
+						navigation.map((item) => (
+							<li
+								class={item.children?.length ? 'site-nav-group' : undefined}
+								data-current={holdsCurrent(item) ? '' : undefined}
+							>
+								<a
+									class="nav-link"
+									href={item.href}
+									aria-current={isCurrent(item) ? 'page' : undefined}
+								>
 									{item.label}
 								</a>
+
+								{item.children?.length ? (
+									<details class="nav-disclosure">
+										<summary class="nav-chevron">
+											<span class="sr-only">{`Alasivut: ${item.label}`}</span>
+											<svg
+												viewBox="0 0 24 24"
+												aria-hidden="true"
+												fill="none"
+												stroke="currentColor"
+												stroke-width="2"
+												stroke-linecap="round"
+												stroke-linejoin="round"
+											>
+												<path d="m6 9 6 6 6-6" />
+											</svg>
+										</summary>
+										<ul class="site-subnav">
+											{item.children.map((child) => (
+												<li>
+													<a
+														class="nav-link"
+														href={child.href}
+														aria-current={isCurrent(child) ? 'page' : undefined}
+													>
+														{child.label}
+													</a>
+												</li>
+											))}
+										</ul>
+									</details>
+								) : null}
 							</li>
-						);
-					})
-				}
-			</ul>
-		</nav>
+						))
+					}
+				</ul>
+			</nav>
+		</site-nav>
 	</div>
 </header>
+
+<script>
+	const DESKTOP = '(min-width: 48rem)';
+
+	class SiteNav extends HTMLElement {
+		#desktop = matchMedia(DESKTOP);
+		#hover = matchMedia(`${DESKTOP} and (hover: hover)`);
+		#closeTimer = 0;
+
+		connectedCallback() {
+			const menu = this.querySelector('[popover]')!;
+			const disclosures = [
+				...this.querySelectorAll<HTMLDetailsElement>('.nav-disclosure'),
+			];
+
+			const closeAll = (except?: HTMLDetailsElement) => {
+				for (const disclosure of disclosures) {
+					if (disclosure !== except) disclosure.open = false;
+				}
+			};
+
+			for (const disclosure of disclosures) {
+				disclosure.addEventListener('toggle', () => {
+					if (disclosure.open && this.#desktop.matches) closeAll(disclosure);
+				});
+
+				const group = disclosure.closest('.site-nav-group')!;
+
+				group.addEventListener('pointerenter', () => {
+					if (!this.#hover.matches) return;
+					clearTimeout(this.#closeTimer);
+					disclosure.open = true;
+				});
+
+				group.addEventListener('pointerleave', () => {
+					if (!this.#hover.matches) return;
+					this.#closeTimer = window.setTimeout(() => (disclosure.open = false), 150);
+				});
+			}
+
+			this.addEventListener('keydown', (event) => this.#onKeydown(event, disclosures));
+
+			this.#desktop.addEventListener('change', () => closeAll());
+
+			document.addEventListener('pointerdown', (event) => {
+				if (!this.contains(event.target as Node)) closeAll();
+			});
+
+			// Opening the drawer reveals the section the visitor is currently in.
+			menu.addEventListener('beforetoggle', (event) => {
+				if ((event as ToggleEvent).newState !== 'open') return;
+				const current = this.querySelector<HTMLDetailsElement>(
+					'[data-current] > .nav-disclosure',
+				);
+				if (current) current.open = true;
+			});
+		}
+
+		#onKeydown(event: KeyboardEvent, disclosures: HTMLDetailsElement[]) {
+			const target = event.target as HTMLElement;
+
+			if (event.key === 'Escape') {
+				const open = disclosures.find((disclosure) => disclosure.open);
+				if (!open) return;
+				open.open = false;
+				open.querySelector('summary')!.focus();
+				event.preventDefault();
+				return;
+			}
+
+			if (event.key !== 'ArrowDown' && event.key !== 'ArrowUp') return;
+
+			const summary = target.closest('.nav-chevron');
+			if (summary) {
+				if (event.key !== 'ArrowDown') return;
+				const disclosure = summary.parentElement as HTMLDetailsElement;
+				disclosure.open = true;
+				disclosure.querySelector<HTMLAnchorElement>('.nav-link')!.focus();
+				event.preventDefault();
+				return;
+			}
+
+			const subnav = target.closest('.site-subnav');
+			if (!subnav) return;
+
+			const links = [...subnav.querySelectorAll<HTMLAnchorElement>('.nav-link')];
+			const next = links[links.indexOf(target as HTMLAnchorElement) + (event.key === 'ArrowDown' ? 1 : -1)];
+			if (next) {
+				next.focus();
+				event.preventDefault();
+			}
+		}
+	}
+
+	customElements.define('site-nav', SiteNav);
+</script>

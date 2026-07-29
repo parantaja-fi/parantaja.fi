@@ -26,8 +26,9 @@ const pageTitle = title === siteTitle ? title : `${title} | ${siteTitle}`;
 		<title>{pageTitle}</title>
 	</head>
 	<body>
+		<a class="skip-link" href="#sisalto">Siirry sisältöön</a>
 		<Header />
-		<main class="site-main">
+		<main id="sisalto" class="site-main">
 			<div class="container">
 				<slot />
 			</div>
