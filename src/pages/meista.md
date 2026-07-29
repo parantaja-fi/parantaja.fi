@@ -119,4 +119,4 @@ Kaikkia osiani en vielä tunne.
 Hoitajia minussa on ainakin kaksi.
 Kutsun heitä paremman puutteissa hoitajaksi ja karhu-shamaaniksi.
 
-Lyhyet kuvaukset hoitajista löydät [palvelut](/hoidot)-sivulta.
+Lyhyet kuvaukset hoitajista löydät [hoidot](/hoidot)-sivulta.

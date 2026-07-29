@@ -24,8 +24,9 @@ export const navigation: NavigationItem[] = [
 		label: 'Palvelut',
 		children: [
 			{ href: '/hoidot', label: 'Ihmisten parantaminen' },
+			{ href: '/mentorointi', label: 'Mentorointi' },
 			{ href: '/yksinkertaistaminen', label: 'Yksinkertaistaminen' },
-			{ href: '/eu-rahoitus', label: 'EU-rahoitus' },
+			{ href: '/rahoitus', label: 'Rahoitushakemukset' },
 			{ href: '/tutkimus', label: 'Tutkimus' }
 		],
 	},

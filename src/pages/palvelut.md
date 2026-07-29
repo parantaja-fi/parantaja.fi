@@ -6,22 +6,38 @@ description: Palvelut
 
 # Palvelut
 
-Parantajana parannamme [järjestelmiä](/yksinkertaistaminen) ja [ihmisiä](/hoidot).
+Parantajana parannamme [järjestelmiä](#järjestelmien-parantaminen) ja [ihmisiä](#henkilökohtaiset-palvelut).
+
 Molemmissa käytämme samoja periaatteita:
 pyrimme poistamaan paranemisen esteitä niin,
 että järjestelmän sisäiset paranemisvoimat kykenevät toimimaan.
-Käytännön tasolla nämä ovat kuitenkin aika erilaisia.
+Käytännön tasolla nämä ovat kuitenkin varsin erilaisia.
 
-### Hoidot
+## Henkilökohtaiset palvelut
 
 Parannamme ihmisiä poistamalla paranemisen esteitä.
 Tämä voi tapahtua eri tavoin, mutta yleensä hoitamalla yhdessä kehoa ja mieltä.
-Usein hoito parantaa myös yksilöä ympäröivää sosiaalista järjestelmää.
+Yleensä hoito vaikuttaa myös yksilöä ympäröivään sosiaaliseen järjestelmään.
 
-[Hoidot](/hoidot)
+### Hoidot
+
+[Hoidot](/hoidot) pyrkivät poistamaan paranemisen esteitä kehomielessä.
 
 Hoitometodejamme voi olla hyvin vaikea ymmärtää,
-jos ei ymmärrä [maailmankuvaamme](/maailmankuva).
+jos ei ymmärrä [maailmankuvaani](/maailmankuva).
+
+En tee hoitoja etänä.
+
+### Mentorointi
+
+[Mentorointi](/mentorointi) suuntautuu enemmän mielen hoitamiseen.
+
+Teen mentorointia samalla periaatteella kuin hoitoja,
+mutta poiketen hoidoista, teen mentorointia pääsääntöisesti etänä.
+
+Yleensä mentorointisuhde on pidempi, kuukausia tai vuosia kestävä suhde.
+
+## Järjestelmien parantaminen
 
 ### Yksinkertaistaminen
 
@@ -33,9 +49,18 @@ Jos yksinkertaistaessamme kirjoitamme ohjelmistokoodia tai tekstiä,
 julkaisemme kaiken koodin avoimena lähdekoodina ja tekstin joko
 täysin vapaana tai Creative Commons lisenssillä.
 
-### EU-rahoitus
+### Rahoitushakemukset
 
 Toisinaan parannamme auttamalla yleishyödyllisten hankkeiden
-EU-rahoituksen haussa.
+EU- ja muun rahoituksen haussa.
 
 [EU-rahoitus](/eu-rahoitus)
+[Muut rahoitushakemukset](/tulossa)
+
+### Tutkimus
+
+Teen omaehtoista [tutkimustyötä](/tutkimus).
+Tutkimusprojektini vaihtelevat ajan myötä.
+Pääsääntöisesti en enää pyri julkaisemaan tutkimustuloksiani vertaisarvioiduilla formaaleilla foorumeilla,
+vaan julkaisen tulokset [avoimena lähdekoodina ja dokumentteina](https://github.com/pekkanikander).
+

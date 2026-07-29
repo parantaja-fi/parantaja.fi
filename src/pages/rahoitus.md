@@ -6,9 +6,9 @@ description: EU-rahoitushakemuksissa auttaminen
 
 # EU-rahoitushakemukset
 
-EU-rahoitushakemuksissa auttaminen.
+EU- ja muissa yleishyödyllisissä rahoitushakemuksissa auttaminen.
 
-Hänen aiempia projektejaan ovat mm.
+Aiempia projektejamme ovat ovat mm.
 [GMeRitS](https://gmerits.eu),
 [ATARCA](https://atarca.eu) ja
 [SOFIE](https://sofie-iot.eu).
