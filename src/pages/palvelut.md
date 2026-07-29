@@ -47,15 +47,15 @@ Parannamme järjestelmiä yksinkertaistamalla niitä.
 
 Jos yksinkertaistaessamme kirjoitamme ohjelmistokoodia tai tekstiä,
 julkaisemme kaiken koodin avoimena lähdekoodina ja tekstin joko
-täysin vapaana tai Creative Commons lisenssillä.
+täysin vapaana tai Creative Commons -lisenssillä.
 
 ### Rahoitushakemukset
 
 Toisinaan parannamme auttamalla yleishyödyllisten hankkeiden
 EU- ja muun rahoituksen haussa.
 
-[EU-rahoitus](/eu-rahoitus)
-[Muut rahoitushakemukset](/tulossa)
+[EU-rahoitus](/rahoitus)<br>
+[Muut rahoitushakemukset](/rahoitus#muut-rahoitushakemukset)
 
 ### Tutkimus
 

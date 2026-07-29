@@ -8,12 +8,12 @@ description: Mentorointi
 
 Mentorointisuhde voi tulla kyseeseen, jos koet,
 että elämänkokemustemme jakaminen palvelee sinua (ja meitä molempia) tavalla,
-jossa säännöllisesti toistuvat keskustelut tulevat tarkoituksemukaisiksi.
+jossa säännöllisesti toistuvat keskustelut tulevat tarkoituksenmukaisiksi.
 
 Myös mentoroinnissa, kuten hoidoissa, on tärkeää ymmärtää [maailmankuvani](/maailmankuva) ainakin karkealla tasolla.
 Mentorointiin saattaa joskus liittyä myös [hoitoja](/hoidot), jos tarve siihen nousee.
 
-Mentorointi pyrkii sekä yksilön (sinun) että yhteisön paranemisen.
+Mentorointi pyrkii sekä yksilön (sinun) että yhteisön paranemiseen.
 Poistamme yhdessä paranemisen esteitä mielen ja yhteisön tasolla.
 
 Mentorointia teen pääsääntöisesti etänä.

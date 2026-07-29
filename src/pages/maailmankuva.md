@@ -1,7 +1,7 @@
 ---
 layout: ../layouts/MarkdownPageLayout.astro
 title: Maailmankuva
-description: Ajatuksia maailmankuvasta ja sen merkityksesta
+description: Ajatuksia maailmankuvasta ja sen merkityksestä
 ---
 
 # Maailmankuvani
@@ -9,11 +9,11 @@ description: Ajatuksia maailmankuvasta ja sen merkityksesta
 Tämänhetkinen maailmankuvani on käsittääkseni uniikki.
 Paitsi että sitä on vaikea kuvata lyhyesti, se myös muuttuu koko ajan.
 Työstän maailmankuvaani julkisesti,
-Github:issa sijaitsevassa [korttitalossani](https://github.com/pekkanikander/trajectory-ontology/blob/main/README.md).
+GitHubissa sijaitsevassa [korttitalossani](https://github.com/pekkanikander/trajectory-ontology/blob/main/README.md).
 
 Lyhyesti määriteltynä maailmankuvani on anti-materialistinen ja anti-objektivistinen, mutta tieteelliseen metodiin
 ja konstruktivismiin nojaava.
-Uskon, että meidän sisäinen todellisuutemme ja ulkoiseksi kokema todellisuutemme tavallaan peilaavat toisaan.
+Uskon, että meidän sisäinen todellisuutemme ja ulkoiseksi kokema todellisuutemme tavallaan peilaavat toisiaan.
 
 Karkean mielikuvan maailmankuvastani voi saada seuraavasti.
 Ajattele ensin, että — päinvastoin kuin yleensä meille opetetaan — aivot eivät luokaan tietoisuutta.
@@ -24,7 +24,7 @@ Tietoisuutemme on jossain muualla.
 Aivomme ovat elin, joka tavallaan "vastaanottaa" tuon tietoisuuden sisällön ja "projisoi" sen siksi kokemukseksi, jonka koemme.
 Tietoisuus on siis ensin ja kaikki kokemamme, myös tämä fyysinen maailma, on "vain" tietoisuuden itsensä luomaa sisältöä.
 
-Tälla karkealla tasolla maailmankuvani on melko samanlainen kuin mitä mm.
+Tällä karkealla tasolla maailmankuvani on melko samanlainen kuin mitä mm.
 [Bernardo Kastrup](https://en.wikipedia.org/wiki/Bernardo_Kastrup) ja
 [Federico Faggin](https://en.wikipedia.org/wiki/Federico_Faggin) kuvaavat.
 
@@ -45,7 +45,7 @@ Mutta tätä en silloin tiennyt.
 Kuvaannollisesti sain kavioniskun suoraan otsaluuhun.
 Kokemus kesti viikkoja ja jollain tasolla yli puoli vuotta.
 Yhtäkkiä en enää elänytkään siihenastisessa fyysisessä todellisuudessa, vaan aivan jossain muualla.
-Kokemukseni ja käytökseni muuttuivat niin paljon, että jokut läheiseni kuvittelivat minun olevan psykoottinen.
+Kokemukseni ja käytökseni muuttuivat niin paljon, että jotkut läheiseni kuvittelivat minun olevan psykoottinen.
 Heitä ei vakuuttanut edes se, että sekä psykiatrini että psykoterapeuttini kertoivat muuta.
 Aurorastakin minut heitettiin ulos alle vuorokaudessa, koska olin liian selväjärkinen.
 
@@ -65,7 +65,7 @@ Hyväksyin, siinä hetkessä, että olen näkijä ja parantaja.
 Maailman­kuvani tippui pirstaleina lattialle.
 Paluuta vanhaan ei enää ollut.
 
-Seuraavien päivien ja viikkojen kokemukset olivat naulaava tämä tiedon seinälle.
+Seuraavien päivien ja viikkojen kokemukset olivat naulaava tämän tiedon seinälle.
 Ei ollut helppo uskoa, että olen jotain muuta, kuin mitä olin luullut olevani.
 Ei ollut helppo uskoa, että maailman on yksinkertaisesti pakko vain olla oleellisesti erilainen,
 kuin mitä olin sen kuvitellut olevan.
@@ -76,7 +76,7 @@ Tuntui siltä, että elämän voimani olisi päästetty vapaaksi, ilman jarrua.
 
 Koin vahvasti olevani herännyt, enemmän hereillä, kuin koskaan aikai­semmin eläessäni.
 Valo ei voinut olla loistamatta.
-Systeemini ei osannut pitää erillä omaa oloani ja muiden oloa.
+Systeemini ei osannut pitää erillään omaa oloani ja muiden oloa.
 
 </blockquote>
 
@@ -90,7 +90,7 @@ En voinut enää kieltää minussa herännyttä [Ilmaria](/meista#ilmari)
 enkä sitä, että minussa on parantajan ja näkijän kykyjä.
 
 Lähes minkä tahansa yksittäisen tavanomaisesta poikkeavan kokemukseni
-olisin ehkä voinut vielä "selittää" tilaipäisellä mielenhäiriöllä.
+olisin ehkä voinut vielä "selittää" tilapäisellä mielenhäiriöllä.
 Mutta kun kokemukset jatkuivat kuukausia ja lopulta vuosia —
 jatkuen vieläkin —
 ja kun joissakin tapauksissa meitä on ollut monta jakamassa
@@ -102,7 +102,7 @@ Muutos ei ollut helppo.
 Ei todellakaan.
 Jouduin rakentamaan uuden maailmankuvan noin kaksi ja puoli kertaa.
 Jokainen romahdus sattui kipeästi.
-Yht'äkkiä en enää tiennyt, kuka olin, mikä olin, missä olin tai miksi olin.
+Yhtäkkiä en enää tiennyt, kuka olin, mikä olin, missä olin tai miksi olin.
 
 Kun maailmankuvani romahti kolmannen kerran, aloin jo tottua.
 Siitä vei vielä noin puoli vuotta, että opin elämään ei-tietämisen tilassa ilman ahdistusta.

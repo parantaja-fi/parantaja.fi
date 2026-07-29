@@ -59,7 +59,7 @@ Tähän pyrin tätä työtä tehdessäni.
 Aina en onnistu.
 
 Hoitotyötä teen pääsääntöisesti Turussa.
-Hoitoon sinun on hyvä varata vähintään 1.5 tuntia.
+Hoitoon sinun on hyvä varata vähintään 1,5 tuntia.
 Etähoitoja en tee kuin poikkeustapauksissa.
 
 [Varaa tutustumispuhelu](/yhteys)

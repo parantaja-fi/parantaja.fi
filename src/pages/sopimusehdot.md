@@ -70,11 +70,11 @@ Hoidossa kaikki on vapaaehtoista.
 Voit milloin tahansa keskeyttää hoidon tai pyytää, että en tee jotain tai teen jotain vähemmän.
 
 Tyypillisesti hoidossa annat käsieni koskea itseäsi.[^2]
-Käteni saattavat puristaa, ravistaa tai painaa lihaksiasia tai faskioitasi.
+Käteni saattavat puristaa, ravistaa tai painaa lihaksiasi tai faskioitasi.
 Tämä saattaa aiheuttaa kipua.
 Joskus tuo kipu voi hetkellisesti olla sietämätöntä.
 Kuten hoidon alussa aina ohjeistan, kaikki kipu, johon ei voi rentoutua, on liikaa.
-_Sinun vastuullasi on sanoa, jos jonkin sattuu niin paljon, että rentoutuminen on mahdotonta._
+_Sinun vastuullasi on sanoa, jos johonkin sattuu niin paljon, että rentoutuminen on mahdotonta._
 
 [^2]: Voimme sopia myös hoidon alussa, että hoito ei sisällä lainkaan kosketusta.
     Kokemukseni mukaan tällaiset hoidot ovat useimmiten tehottomampia. Mutta ei aina.

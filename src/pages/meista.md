@@ -1,7 +1,7 @@
 ---
 layout: ../layouts/MarkdownPageLayout.astro
-title: Meistä
-description: Keitä me oikein olemme
+title: Kuka minä olen?
+description: Kuka minä olen
 ---
 
 # Kuka minä olen?
@@ -63,7 +63,7 @@ Pekka on insinööri. Hän ratkaisee ongelmia.
 Ennen Pekka oli sarjayrittäjä ja professori. Hänestä Google tiesi (ja [tietää edelleen](https://www.google.com/search?q=pekka+nikander)) liikaakin.
 
 Pekka aloitti parantamisen noin vuonna 1980. Silloin hän kirjoitti ensimmäiset koodirivinsä,
-[Commodore PET](https://fi.wikipedia.org/wiki/Commodore_PET) tietokoneelle,
+[Commodore PET](https://fi.wikipedia.org/wiki/Commodore_PET) -tietokoneelle,
 [BASIC](https://fi.wikipedia.org/wiki/BASIC)-ohjelmointikielellä ja
 hiukan myöhemmin [konekielellä](https://fi.wikipedia.org/wiki/Konekieli).
 Sittemmin Pekka on kirjoittanut yli 200 000 riviä ohjelmistokoodia, joista suuren osan hän on julkaissut avoimena lähdekoodina.
@@ -117,6 +117,6 @@ Kaikkia osiani en vielä tunne.
 ### Hoitajat
 
 Hoitajia minussa on ainakin kaksi.
-Kutsun heitä paremman puutteissa hoitajaksi ja karhu-shamaaniksi.
+Kutsun heitä paremman puutteessa hoitajaksi ja karhu-shamaaniksi.
 
 Lyhyet kuvaukset hoitajista löydät [hoidot](/hoidot)-sivulta.

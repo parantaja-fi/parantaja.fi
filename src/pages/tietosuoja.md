@@ -60,9 +60,9 @@ kuten nimiä ja sähköpostiosoitteita. Näitä ei tallenneta erilliseen rekiste
 En myy tai luovuta henkilötietoja kolmansille osapuolille markkinointitarkoituksiin.
 
 Kirjanpitäjäni käsittelee laskutustietoja kirjanpitolain edellyttämällä tavalla.
-Hoitopalkkioiden lahjoitukset tilitetään
+Hoitopalkkioiden lahjoitukset maksetaan suoraan
 [Suomen Kestävän Elämäntavan Yhteisöt](https://skey.fi) ry:lle tai
-[Ikikaiku](https://ikikaiku.fi) säätiölle; tässä yhteydessä siirtyy vain maksutapahtuman tiedot.
+[Ikikaiku](https://ikikaiku.fi) säätiölle; tässä yhteydessä siirtyvät vain maksutapahtuman tiedot.
 
 ## Tietojen siirto EU- ja ETA-alueen ulkopuolelle
 

@@ -6,12 +6,12 @@ description: Imaginaalin tutkimus
 
 # Tutkimus
 
-Olin ennen vuotta 2021 mukana kirjoittamassa reilua sataa vertaisarvioituja julkaisua ja standardia,
-joihin on viitattu noin 10000 kertaa.
+Olin ennen vuotta 2021 mukana kirjoittamassa reilua sataa vertaisarvioitua julkaisua ja standardia,
+joihin on viitattu noin 10 000 kertaa.
 [Google Scholarin mukaan](https://scholar.google.com/citations?user=hkoBG7oAAAAJ&hl=en&oi=ao)
-hänen H-indeksinsä on 48;
-[research.com:in mukaan](https://research.com/u/pekka-nikander)
-D-indeksi on 42.
+H-indeksini on 48;
+[research.comin mukaan](https://research.com/u/pekka-nikander)
+D-indeksini on 42.
 
 Vuosina 2021–2025 en tehnyt tutkimustoimintaa.
 

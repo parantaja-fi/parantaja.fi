@@ -43,16 +43,16 @@ Ota kuitenkin huomioon, että en tee kirjallisia sopimuksia.
 ## Elintasoni ja elämäntapani
 
 Pyrin elämään mahdollisimman ekologisesti.
-Asun tällä hetkellä pienessä 16m<sup>2</sup> kivijalkayksiössä.
+Asun tällä hetkellä pienessä 16 m<sup>2</sup>:n kivijalkayksiössä.
 Lähes kaikki tavarani olen lahjoittanut pois.
-Ostan alusvaatteita ja kenkiä lukuunottamatta lähes kaikki vaatteeni käytettyinä.
+Ostan alusvaatteita ja kenkiä lukuun ottamatta lähes kaikki vaatteeni käytettyinä.
 Pyrin vähentämään hävikkiä ostamalla punalapputuotteita.
 Dyykkaisin, ainakin jonkin verran, jos lähikaupan roskikset eivät olisi lukossa.
 
 Käytännössä kaiken ylimääräisen rahan lahjoitan muille.
 Tuen taloudellisesti muutamia minulle läheisiä ihmisiä aina kun voin.
 Sinäkin aikana, kun elin lähes ilman tuloja viisi vuotta,
-lahjoitin yhteensä kymmeniätuhansia euroja hyviin tarkoituksiin,
+lahjoitin yhteensä kymmeniä tuhansia euroja hyviin tarkoituksiin,
 lähinnä ekokylille ja niiden kehitysprojekteille.
 
 Toisinaan matkustan osallistuakseni erilaisiin työpajoihin,

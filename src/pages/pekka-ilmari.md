@@ -1,7 +1,7 @@
 ---
 layout: ../layouts/MarkdownPageLayout.astro
-title: Meistä
-description: Keitä me oikein olemme
+title: Pekka-Ilmari
+description: Pekka-Ilmari Nikander
 ---
 
 # Pekka-Ilmari Nikander

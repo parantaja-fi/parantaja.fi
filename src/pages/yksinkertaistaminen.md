@@ -32,7 +32,7 @@ Näistä saatavat tiedot koostamme joko esitysmateriaaliksi tai tekstiksi.[^1]
 Kun ymmärrämme yhdessä yksinkertaistettavan järjestelmän syvällisemmän olemassaolon tarkoituksen
 ja sen rajapinnat ympäröivien järjestelmien kanssa, voimme suunnitella, miten järjestelmää voi yksinkertaistaa.
 Usein tämä tarkoittaa joidenkin komponenttien korvaamista avoimen lähdekoodin komponenteilla.
-Pyrimme aina käyttämään olemassaolevia avoimen lähdekoodin komponentteja.
+Pyrimme aina käyttämään olemassa olevia avoimen lähdekoodin komponentteja.
 Tarvittaessa kehitämme niitä eteenpäin[^1] ja
 pyrimme saamaan tekemämme muutokset osaksi kunkin komponentin virallista versiota.
 
@@ -56,7 +56,7 @@ Pekan keskeisiä osaamisalueita ovat tietoturva ja tavaroiden Internet (IoT).
 
 Tekoälyn avustuksella hän on lisäksi viime vuosina tehnyt mm.
 [laajennuksia Android sovelluksiin](https://github.com/pekkanikander/Signal-Android-Accessibility-Kiosk),
-[funktionaalisen F# kirjaston HTTP API-rajapintaan](https://github.com/pekkanikander/nocfo-api-onboard) ja
+[funktionaalisen F#-kirjaston HTTP-API-rajapintaan](https://github.com/pekkanikander/nocfo-api-onboard) ja
 [työkalun tiedostojen siirtämiseksi Google Workspace -ympäristössä](https://github.com/pekkanikander/google-drive-personal-to-workspace-multiowner-migration).
 
 ## Avoin lähdekoodi ja Creative Commons
@@ -64,7 +64,7 @@ Tekoälyn avustuksella hän on lisäksi viime vuosina tehnyt mm.
 Nykyisin teemme vain hankkeita, jotka ovat samalla yleishyödyllisiä.
 [Julkaisemme](/lisenssit) kaiken kehittämämme ohjelmistokoodin avoimena lähdekoodina
 ja kaiken kirjoittamamme tekstin joko ilman kopiointisuojaa tai
-[Creative Commons](https://creativecommons.org) lisenssillä.
+[Creative Commons](https://creativecommons.org) -lisenssillä.
 
 Koemme, että kun annamme kehitystyömme tulokset julkisiksi,
 mahdollistamme samalla laajemman parantumisen.

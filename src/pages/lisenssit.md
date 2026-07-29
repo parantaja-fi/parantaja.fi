@@ -10,7 +10,7 @@ description: Avoimen lähdekoodin ja Creative Commons lisenssit
 
 Kaiken ohjelmistokoodin ja kirjoittamamme tekstin julkaisemme sopivan
 [avoimen lähdekoodin](https://fi.wikipedia.org/wiki/Avoin_lähdekoodi) tai
-[Creative Commons](https://creativecommons.org) lisenssillä.
+[Creative Commons](https://creativecommons.org) -lisenssillä.
 
 Normaalisti julkaisemme kaikki tuotoksemme jatkuvasti, lähes joka päivä.
 Poikkeustapauksissa perustellusta syystä (ks. mm. [EU-rahoitushakemukset](#eu-rahoitushakemukset)) voidaan sopia myös muusta käytännöstä.
@@ -20,18 +20,18 @@ Poikkeustapauksissa perustellusta syystä (ks. mm. [EU-rahoitushakemukset](#eu-r
 Itse vastaan tekemäni koodin ja tekstin tekijänoikeudellisesta tilanteesta vain sen osalta, miten julkaisen ne avoimena lähdekoodina,
 tekstinä tai muuna tuotoksena.
 En ota mitään juridista vastuuta tuotosten käyttöön liittyvistä riskeistä.
-Voit käyttää tuotoksiani kuten mitä tahansa muuta avoimen lähdekoodin ohjelmistoa tai Creative Commons ehdoin julkaistua muuta tuotosta.
+Voit käyttää tuotoksiani kuten mitä tahansa muuta avoimen lähdekoodin ohjelmistoa tai Creative Commons -ehdoin julkaistua muuta tuotosta.
 
 Toisaalta, ihmisenä ja kehittäjänä, pyrin parhaani mukaan huolehtimaan siitä,
 että käytetyt avoimen lähdekoodin ohjelmistot tai muut tuotokset palvelevat
 parhaalla mahdollisella tavalla järjestelmäsi yksinkertaistamisen tavoitteita.
-En vain voin juridiselta kannalta taata, että mitään tavoitteita saavutetaan,
+En vain voi juridiselta kannalta taata, että mitään tavoitteita saavutetaan,
 enkä voi ottaa vastuuta mahdollisen saavuttamattomuuden mahdollisesti aiheuttamista ongelmista.
 
 ### Tekoälyn käyttäminen
 
 Käytän sekä koodauksen että kirjoittamisen apuna generatiivista tekoälyä eli niin sanottuja LLM-malleja,
-kuten Claude Code:a ja ChatGPT:tä.
+kuten Claude Codea ja ChatGPT:tä.
 Näiden generoiman koodin ja tekstin tekijänoikeudellinen tilanne on tällä hetkellä epäselvä.
 En ota mitään vastuuta tämän epäselvän tilanteen mahdollisesti aiheuttamista ongelmista.
 
