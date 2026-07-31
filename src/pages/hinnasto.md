@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/MarkdownPageLayout.astro
-title: Hinnasto
+title: Hinnattomuus
 description: Meillä ei ole hintoja
 ---
 # Hinnattomuus
@@ -14,9 +14,11 @@ Haluan käyttää elämäni antamalla lahjoja muille.
 En hinnoittele työtäni mitenkään.
 Sinä päätät palvelun vastaanotettuasi, mitä maksat.
 
-Kaikki [hoitotyöstä](/hoidot) saamani palkkiot lahjoitan suoraan
+Kaikki [hoitotyön](/hoidot) palkkiot lahjoitat suoraan
 [Suomen Kestävän Elämäntavan Yhteisöt](https://skey.fi) ry:lle tai
 [Ikikaiku](https://ikikaiku.fi) säätiölle.
+Mahdollisen hoitopaikan tilavuokran, tyypillisesti 10 €/kerta,
+maksat suoraan hoitopaikalle paikan päällä.
 
 Muusta työstä (ks. [palvelut](/palvelut)) saamani palkkiot
 laskutan normaalisti arvonlisäverollisina palveluina.

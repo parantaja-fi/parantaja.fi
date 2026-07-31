@@ -13,9 +13,9 @@ export const navigation: NavigationItem[] = [
 		href: '/pekka-ilmari',
 		label: 'Pekka-Ilmari',
 		children: [
-			{ href: '/sanottua', label: 'Minusta sanottua' },
 			{ href: '/meista', label: 'Kuka minä olen?' },
 			{ href: '/maailmankuva', label: 'Maailmankuvani' },
+			{ href: '/sanottua', label: 'Minusta sanottua' },
 		],
 	},
 	{
@@ -30,10 +30,11 @@ export const navigation: NavigationItem[] = [
 		],
 	},
 	{
-		href: '/hinnasto',
-		label: 'Hinnattomuus',
+		href: '/periaatteet',
+		label: 'Hinnat ja periaatteet',
 		children: [
 			{ href: '/sopimusehdot', label: 'Sopimuksettomuus' },
+			{ href: '/hinnasto', label: 'Hinnattomuus', },
 			{ href: '/lisenssit', label: 'Avoimuus'},
 			{ href: '/eettiset-periaatteet', label: 'Eettiset periaatteet' }
 		]

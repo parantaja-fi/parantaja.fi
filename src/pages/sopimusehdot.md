@@ -14,8 +14,6 @@ Jos et ole tyytyväinen, et maksa mitään.
 Et myöskään voi käytännössä haastaa meitä oikeuteen; se ei vain kannata.[^1]
 [^1]: Jos haastaisit meidät oikeuteen ja voittaisit,
     mahdollisesti saamasi korvaukset olisivat poissa [ekokyläprojekteista](/hinnasto#elintasoni-ja-elämäntapani).
-    Voit toki näin yrittää tuhota elämäntapani, jos niin todella haluat.
-    Mutta voit myös olla varma, että tekisin kaikkeni, jotta kaikki tekemäsi tulisi mahdollisimman julkiseksi ja näkyväksi, jos niin lähtisit toimimaan.
 
 ## Laskutus
 
@@ -23,10 +21,9 @@ Jollei muuta sovita, lähetän palvelun jälkeen sinulle sähköpostiin laskun.
 
 Laskussa erittelen tekemäni työn, mutta en anna sille mitään euromääräistä arvoa.
 Laskun saatuasi päätät, minkä verran maksat.
-Maksun saatuani kirjanpitojärjestelmäni automaattisesti kirjaa laskun ja maksetun summan.
 
 Hoitolaskuissa on kaksi eri viite- ja tilinnumeroa, joiden avulla voit valita,
-haluatko minun lahjoittavan palkkion [Suomen Kestävän Elämäntavan Yhteisöt](https://skey.fi) ry:lle vai
+lahjoitatko palkkion suoraan [Suomen Kestävän Elämäntavan Yhteisöt](https://skey.fi) ry:lle vai
 [Ikikaiku](https://ikikaiku.fi) säätiölle.
 Muissa laskuissa on vain yksi tilin- ja viitenumero.
 
@@ -65,6 +62,8 @@ Jos organisaatiosi vaatii hankintasopimuksen tai eksklusiiviset oikeudet tuotoks
 
 Tiedostathan, että _en ole tässä elämässä saanut minkäänlaista koulutusta tekemääni hoitotyöhön._
 Nämä hoidot eivät koskaan korvaa lääketieteellistä hoitoa.
+Jos sinulla on krooninen sairaus tai pysyvä hoitosuhde, olethan ensin yhteydessä
+lääketieteelliseen hoitohenkilökuntaasi ennen kuin harkitset minun hoitooni tulemista.
 
 Hoidossa kaikki on vapaaehtoista.
 Voit milloin tahansa keskeyttää hoidon tai pyytää, että en tee jotain tai teen jotain vähemmän.
@@ -72,12 +71,21 @@ Voit milloin tahansa keskeyttää hoidon tai pyytää, että en tee jotain tai t
 Tyypillisesti hoidossa annat käsieni koskea itseäsi.[^2]
 Käteni saattavat puristaa, ravistaa tai painaa lihaksiasi tai faskioitasi.
 Tämä saattaa aiheuttaa kipua.
-Joskus tuo kipu voi hetkellisesti olla sietämätöntä.
+Kerron aina, jos osaan olettaa, että jokin saattaa aiheuttaa kipua. Aina en osaa.
 Kuten hoidon alussa aina ohjeistan, kaikki kipu, johon ei voi rentoutua, on liikaa.
+Seuraan mitä sinussa tapahtuu, mutta kehostasi riippuen en välttämättä erota, mikä sattuu ja mikä ei.
 _Sinun vastuullasi on sanoa, jos johonkin sattuu niin paljon, että rentoutuminen on mahdotonta._
 
 [^2]: Voimme sopia myös hoidon alussa, että hoito ei sisällä lainkaan kosketusta.
     Kokemukseni mukaan tällaiset hoidot ovat useimmiten tehottomampia. Mutta ei aina.
+
+Varsinkin ensimmäisillä hoitokerroilla pyrin myös aina kertomaan,
+mihin käteni haluavat seuraavaksi siirtyä tai mitä seuraavaksi on tapahtumassa.
+Jos käteni haluavat mennä alueille, joihin koskettaminen saattaa tuntua epämukavalta,
+kysyn aina etukäteen, sopiiko tämä.  Voit aina kieltäytyä; se on täysin ok.
+Toivon, että pidät rajasi, ja sanot heti, jos jokin alkaa tuntua epämiellyttävältä.
+Pääsääntöisesti en hoida intiimialueita lainkaan, vaikka sisäinen hoitajani niin haluaisi.
+Tämä voi vähentää hoidon tehoa, mutta koen tämän tärkeäksi turvan kannalta.
 
 Joskus sisäinen hoitajani haluaa ohjata sinut syvärentoutumisen tilaan,
 joka saattaa osin muistuttaa hypnoosia.

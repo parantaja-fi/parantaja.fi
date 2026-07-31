@@ -30,7 +30,7 @@ En tee hoitoja etänä.
 
 ### Mentorointi
 
-[Mentorointi](/mentorointi) suuntautuu enemmän mielen hoitamiseen.
+[Mentorointi](/mentorointi) suuntautuu enemmän mielen parantamiseen.
 
 Teen mentorointia samalla periaatteella kuin hoitoja,
 mutta poiketen hoidoista, teen mentorointia pääsääntöisesti etänä.

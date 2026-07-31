@@ -13,7 +13,7 @@ Kaiken ohjelmistokoodin ja kirjoittamamme tekstin julkaisemme sopivan
 [Creative Commons](https://creativecommons.org) -lisenssillä.
 
 Normaalisti julkaisemme kaikki tuotoksemme jatkuvasti, lähes joka päivä.
-Poikkeustapauksissa perustellusta syystä (ks. mm. [EU-rahoitushakemukset](#eu-rahoitushakemukset)) voidaan sopia myös muusta käytännöstä.
+Poikkeustapauksissa perustellusta syystä (ks. mm. [rahoitushakemukset](#rahoitushakemukset)) voidaan sopia myös muusta käytännöstä.
 
 ## Vastuuvapaus
 
@@ -35,10 +35,10 @@ kuten Claude Codea ja ChatGPT:tä.
 Näiden generoiman koodin ja tekstin tekijänoikeudellinen tilanne on tällä hetkellä epäselvä.
 En ota mitään vastuuta tämän epäselvän tilanteen mahdollisesti aiheuttamista ongelmista.
 
-## EU-rahoitushakemukset
+## Rahoitushakemukset
 
-EU-rahoitushakemuksia tehdessämme julkaisen tuotokseni noin viikko sen jälkeen,
-kun tavoitellun haun jättöpäivä on umpeutunut.
+Rahoitushakemuksia tehdessämme julkaisen tuotokseni noin viikko sen jälkeen,
+kun tavoitellun haun jättöaika on umpeutunut.
 Ellei muuta erityisen painavaa syytä ole,
 julkaisen tuotokseni siitä riippumatta,
 jätettiinkö suunniteltuun hakuun hakemus vai ei.

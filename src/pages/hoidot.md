@@ -62,4 +62,30 @@ Hoitotyötä teen pääsääntöisesti Turussa.
 Hoitoon sinun on hyvä varata vähintään 1,5 tuntia.
 Etähoitoja en tee kuin poikkeustapauksissa.
 
+## Hoidon kulku ja hoidon jälkeen
+
+Kaikki tekemäni hoidot ovat yksilöllisiä.
+Ei ole olemassa mitään tiettyä kaavaa, jonka mukaan hoidot tapahtuvat.
+Käymme tutustumispuhelun aikana läpi, millaisia mahdollisia odotuksia sinulla on hoidolta
+ja miten pystyn ehkä niihin vastaamaan tai en pysty vastaamaan.
+
+Itse hoitoon kannattaa pukeutua itsellesi mukaviin vaatteisiin, joiden läpi sinua on helppo koskettaa.
+Tarvittaessa voin tehdä hoidon myös ilman koskettamista, mutta yleensä nämä hoidot eivät toimi niin hyvin.
+
+Hoidon jälkeen on hyvä varmuudeksi varata aikaa palautumiselle.
+Hoito saattaa tuoda pintaan vahvoja emotionaalisia elementtejä.
+Niiden integroimiselle on hyvä olla aikaa.
+
+Hoito voi laittaa kehon tasolla paljon liikkeelle.
+Tämän takia hoidon jälkeen on hyvä juoda paljon.
+Vesi auttaa kuljettamaan mahdollisesti liikkeelle lähteviä kuona-aineita
+munuaisiin ja sitä kautta pois.
+
+Jos hoidon jälkimainingeissa mieleen nousee vaikeita asioita tai kehossa tuntuu uusia kipuja,
+voit niin halutessasi olla minuun yhteydessä.
+Usein varsinainen paraneminen tapahtuu vasta hoitoa seuraavien viikkojen aikana.
+
+Jos mieleen nousevat asiat tai kivut tuntuvat sietämättömiltä tai ylitsepääsemättömiltä,
+on parasta ottaa yhteyttä myös lääkäriin.
+
 [Varaa tutustumispuhelu](/yhteys)

@@ -6,8 +6,6 @@ description: Työtäni ja elämääni ohjaavat eettiset periaatteet
 
 # Eettiset periaatteet
 
-(Nämä eettiset periaatteet ovat vielä kesken. Näiden pohdinta ei ole helppoa.)
-
 Työskentelyni ja toimintani johtotähtenä on
 kaikkea elävää ja kaikkia tuntevia olentoja kohtaan tuntemani
 syvä myötätunto, [karuṇā](https://en.wikipedia.org/wiki/Karuṇā).
@@ -56,3 +54,5 @@ jossa järjestelmän kyky olla olemassa, toimia ja uudistua vahvistuu tavalla,
 joka vähentää kärsimystä ja lisää järjestelmän osien, suhteiden ja kokonaisuuden välistä tarkoituksenmukaista yhteensopivuutta.
 
 Harvoin koen, että itse parannan suoranaisesti mitään.
+
+(Nämä eettiset periaatteet ovat osin vielä kesken. Näiden pohdinta ei ole helppoa.)

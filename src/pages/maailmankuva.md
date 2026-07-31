@@ -93,7 +93,7 @@ Lähes minkä tahansa yksittäisen tavanomaisesta poikkeavan kokemukseni
 olisin ehkä voinut vielä "selittää" tilapäisellä mielenhäiriöllä.
 Mutta kun kokemukset jatkuivat kuukausia ja lopulta vuosia —
 jatkuen vieläkin —
-ja kun joissakin tapauksissa meitä on ollut monta jakamassa
+ja kun joissakin tapauksissa meitä on ollut monta ihmistä jakamassa
 samaa, tavanomaisesta poikkeavaa kokemusta,
 minun oli yksinkertaisesti pakko luopua aiemmasta maailmankuvastani.
 Se ei vain enää riittänyt selittämään sitä kaikkea, mitä koin ja koen.

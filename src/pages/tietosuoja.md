@@ -48,7 +48,7 @@ En itse tallenna varausjärjestelmästä tietoja erikseen.
 
 ### Projektimateriaalit
 
-Yksinkertaistamis- ja EU-rahoitusprojekteissa syntyvä materiaali julkaistaan pääsääntöisesti
+Yksinkertaistamis- ja rahoitusprojekteissa syntyvä materiaali julkaistaan pääsääntöisesti
 avoimena lähdekoodina tai Creative Commons -lisenssillä, kuten [lisenssiehdoissa](/lisenssit) kuvataan.
 Julkaistavaan materiaaliin ei sisällytetä henkilötietoja ilman asianomaisen suostumusta.
 
@@ -92,4 +92,4 @@ Jos koet, että käsittelen tietojasi lainvastaisesti, sinulla on oikeus tehdä 
 
 ---
 
-*Tätä selostetta päivitetään tarvittaessa. Viimeksi päivitetty: huhtikuu 2026.*
+*Tätä selostetta päivitetään tarvittaessa. Viimeksi päivitetty: heinäkuu 2026.*
