@@ -14,6 +14,6 @@ Mutta Pekka-Ilmariksi kutsun itseäni, paremman puutteessa.
 Sinäkin voit kutsua minua Pekka-Ilmariksi.
 Koen itseni kokonaisemmaksi, kun teet niin.
 
-* [Minusta sanottua](/sanottua)
 * [Kuka minä olen?](/meista)
 * [Maailmankuvani](/maailmankuva)
+* [Minusta sanottua](/sanottua)

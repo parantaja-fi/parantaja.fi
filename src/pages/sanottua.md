@@ -6,6 +6,8 @@ description: Minusta sanottua
 
 # Minusta sanottua
 
+( TÄMÄ SIVU ON PAHASTI KESKEN. )
+
 ## Pekka-insinööri
 
 Pekka on yksi parhaista tuntemistani avoimen lähdekoodin koodareista. ...
