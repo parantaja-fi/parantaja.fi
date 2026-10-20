@@ -15,7 +15,8 @@ export const navigation: NavigationItem[] = [
 		children: [
 			{ href: '/meista', label: 'Kuka minä olen?' },
 			{ href: '/maailmankuva', label: 'Maailmankuvani' },
-			{ href: '/sanottua', label: 'Minusta sanottua' },
+			{ href: '/sanottua-hoitajana',   label: 'Minusta sanottua hoitajana' },
+			{ href: '/sanottua-insinoorina', label: 'Minusta sanottua insinöörinä' },
 		],
 	},
 	{

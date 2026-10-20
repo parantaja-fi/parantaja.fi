@@ -16,4 +16,5 @@ Koen itseni kokonaisemmaksi, kun teet niin.
 
 * [Kuka minä olen?](/meista)
 * [Maailmankuvani](/maailmankuva)
-* [Minusta sanottua](/sanottua)
+* [Minusta sanottua hoitajana](/sanottua-hoitajana)
+* [Minusta sanottua insinöörinä](/sanottua-insinoorina)
