@@ -14,7 +14,7 @@ joissa yhdistyvät fyysiset, sosiaaliset ja tietojenkäsittelykomponentit.
 _Me parannamme järjestelmiä yksinkertaistamalla niitä._
 
 [Lähetä sähköpostia](mailto:info@parantaja.fi?subject=Yksinkertaistaminen)<br>
-<a target="_blank" href="https://vello.fi/parantaja" class="button-primary">Varaa tutustumispuhelu</a>
+<a target="_blank" href="https://varaa.parantaja.fi" class="button-primary">Varaa tutustumispuhelu</a>
 
 ---
 

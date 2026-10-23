@@ -42,9 +42,9 @@ Kun lähetät minulle sähköpostia, tallennan viestisi sähköpostiini asian k�
 
 ### Ajanvaraukset
 
-Tutustumispuhelujen ajanvaraus tapahtuu [Vello.fi](https://vello.fi/parantaja)-palvelun kautta.
-Vello käsittelee varauksen yhteydessä antamiasi tietoja oman tietosuojakäytäntönsä mukaisesti.
-En itse tallenna varausjärjestelmästä tietoja erikseen.
+Tutustumispuhelujen ajanvaraus tapahtuu toistaiseksi sähköpostitse (ks. edellä).
+Oma ajanvaraussivu [varaa.parantaja.fi](https://varaa.parantaja.fi) on tulossa.
+Päivitän tämän selosteen, kun se otetaan käyttöön.
 
 ### Projektimateriaalit
 
@@ -62,7 +62,7 @@ En myy tai luovuta henkilötietoja kolmansille osapuolille markkinointitarkoituk
 Kirjanpitäjäni käsittelee laskutustietoja kirjanpitolain edellyttämällä tavalla.
 Hoitopalkkioiden lahjoitukset maksetaan suoraan
 [Suomen Kestävän Elämäntavan Yhteisöt](https://skey.fi) ry:lle tai
-[Ikikaiku](https://ikikaiku.fi) säätiölle; tässä yhteydessä siirtyvät vain maksutapahtuman tiedot.
+[Ikikaiku](https://www.ikikaiku.fi) säätiölle; tässä yhteydessä siirtyvät vain maksutapahtuman tiedot.
 
 ## Tietojen siirto EU- ja ETA-alueen ulkopuolelle
 
@@ -92,4 +92,4 @@ Jos koet, että käsittelen tietojasi lainvastaisesti, sinulla on oikeus tehdä 
 
 ---
 
-*Tätä selostetta päivitetään tarvittaessa. Viimeksi päivitetty: heinäkuu 2026.*
+*Tätä selostetta päivitetään tarvittaessa. Viimeksi päivitetty: lokakuu 2026.*

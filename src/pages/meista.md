@@ -70,9 +70,9 @@ Sittemmin Pekka on kirjoittanut yli 200 000 riviä ohjelmistokoodia, joista su
 
 Pekka päivitti viimeksi [ansioluettelonsa](https://www.pnr.iki.fi/cv) noin vuonna 2021.
 Silloin hän kirjoitti näin:
-"Pekka Ilmari Nikander is a former serial entrepreneour and university professor,
+"Pekka Ilmari Nikander is a former serial entrepreneur and university professor,
 working for the benefit of the society and Mother Earth,
-mostly on a voluntary pro bono bases."
+mostly on a voluntary pro bono basis."
 
 Pekka on kiltti, mutta aikamoinen norsu posliinikaupassa.
 Hän ei juurikaan näe eikä kuule ympärilleen.

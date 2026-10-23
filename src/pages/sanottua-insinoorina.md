@@ -1,18 +1,18 @@
 ---
 layout: ../layouts/MarkdownPageLayout.astro
 title: Sanottua insinöörinä
-description: Minusta sanottua
+description: Minusta sanottua insinöörinä
 ---
 
-## Pekka-insinööri
+# Pekka-insinööri
 
-Pekka–Ilmari on täysin poikkeuksellinen seniori-tason insinööri.
+Pekka-Ilmari on täysin poikkeuksellinen seniori-tason insinööri.
 Hänellä on kyky keskittyä olennaiseen ja tuottaa tekninen ratkaisu,
 jos sellainen on olemassa ja asian mielekkyys kestää eettisen tarkastelun.
 Mikäli ratkaisua ei ole olemassa, hän osaa kertoa, miksi sitä ei ole,
-mitä edellytyksistä suunilleen puuttuu ja miksi hän ei voi niitä synnyttää.
+mitä edellytyksistä suunnilleen puuttuu ja miksi hän ei voi niitä synnyttää.
 
-P–I on omaperäinen, tehokas, vastuuntuntoinen, erittäin kirkas ajattelija ja
+P-I on omaperäinen, tehokas, vastuuntuntoinen, erittäin kirkas ajattelija ja
 kommunikoi paremmin kuin juuri kukaan muu tuntemani insinööri.
 Hän laittaa sormensa häpeilemättä heikoimpaan kohtaan projekti-aihiotasi,
 tekee korjausehdotuksen ja ohjaa lopputuloksen tuottamisen erinomaiseen

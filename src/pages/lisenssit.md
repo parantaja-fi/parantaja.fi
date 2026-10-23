@@ -1,7 +1,7 @@
 ---
 layout: ../layouts/MarkdownPageLayout.astro
 title: Lisenssiehdot
-description: Avoimen lähdekoodin ja Creative Commons lisenssit
+description: Avoimen lähdekoodin ja Creative Commons -lisenssit
 ---
 
 # Avoimuus

@@ -18,7 +18,7 @@ Ole hyvä.
 Saat tehdä niin.
 Voit lähteä.
 
-<a target="_blank" href="https://vello.fi/parantaja" class="button-primary">Varaa tutustumispuhelu</a>
+<a target="_blank" href="https://varaa.parantaja.fi" class="button-primary">Varaa tutustumispuhelu</a>
 
 Jos päätät jäädä,
 jos pystyt avaamaan ajatteluasi ja hyväksymään sen,

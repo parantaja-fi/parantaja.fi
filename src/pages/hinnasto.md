@@ -16,7 +16,7 @@ Sinä päätät palvelun vastaanotettuasi, mitä maksat.
 
 Kaikki [hoitotyön](/hoidot) palkkiot lahjoitat suoraan
 [Suomen Kestävän Elämäntavan Yhteisöt](https://skey.fi) ry:lle tai
-[Ikikaiku](https://ikikaiku.fi) säätiölle.
+[Ikikaiku](https://www.ikikaiku.fi) säätiölle.
 Mahdollisen hoitopaikan tilavuokran, tyypillisesti 10 €/kerta,
 maksat suoraan hoitopaikalle paikan päällä.
 
@@ -58,7 +58,8 @@ lahjoitin yhteensä kymmeniä tuhansia euroja hyviin tarkoituksiin,
 lähinnä ekokylille ja niiden kehitysprojekteille.
 
 Toisinaan matkustan osallistuakseni erilaisiin työpajoihin,
-esimerkiksi vuosittaiseen eurooppalaiseen [ekokylätapaamiseen](https://gengathering.org).
+esimerkiksi vuosittaiseen eurooppalaiseen
+[ekokylätapaamiseen](https://ecovillagegathering.org).
 Tavoitteeni tässäkin on parantaa maailmaa.
 Tukemalla työtäni mahdollistat myös tätä matkustamista.
 Yritän matkustaa mahdollisimman ekologisesti, mutta toisinaan lennän.

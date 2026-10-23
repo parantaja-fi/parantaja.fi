@@ -24,7 +24,7 @@ Laskun saatuasi päätät, minkä verran maksat.
 
 Hoitolaskuissa on kaksi eri viite- ja tilinnumeroa, joiden avulla voit valita,
 lahjoitatko palkkion suoraan [Suomen Kestävän Elämäntavan Yhteisöt](https://skey.fi) ry:lle vai
-[Ikikaiku](https://ikikaiku.fi) säätiölle.
+[Ikikaiku](https://www.ikikaiku.fi) säätiölle.
 Muissa laskuissa on vain yksi tilin- ja viitenumero.
 
 Laskumuistutuksia en lähetä.
