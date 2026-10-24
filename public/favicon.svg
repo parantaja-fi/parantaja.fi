@@ -1,26 +1,37 @@
-<path class="stroke" stroke-width="28"
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="238 72 800 800">
+<style>
+  .stroke { fill: none; stroke: #8e0300; stroke-linecap: round; }
+  .iris { fill: #8e0300; }
+  @media (prefers-color-scheme: dark) {
+    .stroke { stroke: #a00c00; }
+    .iris { fill: #a00c00; }
+  }
+</style>
+
+<path class="stroke" stroke-width="42"
       d="M 289 398
          C 354 405, 430 351, 512 286
          C 599 219, 722 214, 824 241
-         C 904 262, 965 301, 997 347"/>
+         C 875 254, 918 275, 951 300"/>
 
-<path class="stroke" stroke-width="24"
+<path class="stroke" stroke-width="36"
       d="M 352 405
          C 435 457, 549 491, 667 490
          C 805 489, 922 441, 1007 360"/>
 
-<path class="stroke" stroke-width="31"
+<path class="stroke" stroke-width="46"
       d="M 586 491
          C 554 546, 505 594, 446 642
          C 389 688, 329 717, 270 720"/>
 
-<path class="stroke" stroke-width="27"
+<path class="stroke" stroke-width="40"
       d="M 640 536
          C 641 601, 643 662, 643 730"/>
 
-<path class="fillred"
-      d="M 639 335
-         C 682 334, 714 367, 714 410
-         C 714 454, 681 486, 638 486
-         C 594 486, 561 452, 562 409
-         C 562 366, 595 335, 639 335 Z"/>
+<path class="iris"
+      d="M 639 286
+         C 682 285, 714 318, 714 361
+         C 714 405, 681 437, 638 437
+         C 594 437, 561 403, 562 360
+         C 562 317, 595 286, 639 286 Z"/>
+</svg>
