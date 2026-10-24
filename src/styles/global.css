@@ -9,6 +9,24 @@
   --header-height: 4rem;
 }
 
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    --background: #24201c;
+    --surface: #2f2a25;
+    --text: #d6cfc3;
+    --muted: #a89e91;
+    --border: #443c34;
+    --link: #d1a77c;
+  }
+
+  img {
+    filter: brightness(0.85);
+  }
+}
+
 * {
   box-sizing: border-box;
 }
