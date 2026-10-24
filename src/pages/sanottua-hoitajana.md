@@ -12,3 +12,6 @@ description: Minusta sanottua hoitajana
 
 "Pekka-Ilmarin hoito tuntui luontevalta ja vaikutti niin syvälle kehossa ja mielessä, että hoidon jälkeinen vapaapäivä oli enemmän kuin tarpeellinen. Lopullinen vaikutus tuli vasta muutamia tunteja hoidon jälkeen, ensin syvänä väsymyksenä ja sen jälkeen kevyenä, irtipäästämisen olotilana." – Kaisa
 
+"Kävin hoidossa kolme kertaa parin viikon välein. Pekka-Ilmarilla on intuitiiviset kädet, jotka löytävät kipupisteet helposti, ja hän sai kehoni rentoutumaan ja ottamaan hoidon vastaan. Oireeni helpottivat jokaisen hoitokerran jälkeen. Nyt kolmannen hoidon jälkeen kädet liikkuvat vapaammin, eivätkä ne enää puudu öisin. Pekka-Ilmari kannusti minua kuuntelemaan kehoani ja rajojani. Hän kertoi myös, mitä syvempiä tasoja hän intuitiivisesti havaitsi hoidon aikana, mikä oli minulle arvokasta. Jatkan ilolla Pekka-Ilmarin hoidoissa käymistä – lämmin suositus!" – Aliisa
+
+"Olen käynyt Pekka-Ilmarin kanssa läpi pitkäjänteistä hoitoprosessia. Tuki, jota olen saanut omaan paranemiseeni, on ollut suurta. Keho saa aueta omalla tavallaan ja rytmillään, kerros kerrokselta, kohti eheyttä." – Hanna
