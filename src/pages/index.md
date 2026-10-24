@@ -26,6 +26,7 @@ että Parantaja ei ole mitään tavanomaista, saatat yllättyä.
 Ehkä löydät jotain sellaista,
 mitä et mistään muualta saa.
 
+* [Pekka-Ilmari](/pekka-ilmari)
 * [Palvelut](/palvelut)
 * [Periaatteet](/periaatteet)
 * [Yhteystiedot](/yhteys)
