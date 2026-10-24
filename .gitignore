@@ -25,3 +25,6 @@ pnpm-debug.log*
 
 # AI
 CLAUDE.md
+
+# Cards
+.devtool
