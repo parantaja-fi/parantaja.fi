@@ -316,6 +316,19 @@ site-nav {
   margin-bottom: 0;
 }
 
+blockquote {
+  width: min(100%, 40rem);
+  margin: 3rem auto;
+  line-height: 1.8;
+}
+
+blockquote cite {
+  display: block;
+  margin-top: 0.5rem;
+  color: var(--muted);
+  font-style: normal;
+}
+
 .story {
   width: min(100%, 34rem);
   margin: 2rem auto;
